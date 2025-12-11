@@ -12,19 +12,21 @@
   - [TensorFlow](#TensorFlow)
   - [keras](#keras)
 
+- [项目实战](#项目实战)
+
 ## 深度学习框架学习
 
 ### PyTorch
 #### 入门系列
 1. [AI时代，为什么PyTorch成了深度学习"第一选择"？](https://mp.weixin.qq.com/s/cZSN9QRU-ndMP0_kaUTvtw)
 2. [【保姆级教程】10分钟搞定PyTorch开发环境：在VS Code中配置PyTorch开发环境](https://mp.weixin.qq.com/s/DhxpGvSavjQt4m_RHAhrWQ)
-3. [PyTorch核心概念解析：张量、计算图与动态网络]()
+3. [PyTorch核心概念解析：张量、计算图与动态网络](https://mp.weixin.qq.com/s/31UYha6c3wQpjWllK8s5ZA)
 4. [PyTorch张量操作完全指南：像NumPy一样简单，比NumPy更强大](https://mp.weixin.qq.com/s/saIPDvfweCflGPgcZ7m5ow)
-5. [维度变换与广播机制：掌握PyTorch张量操作的核心技巧 ]()
+5. [维度变换与广播机制：掌握PyTorch张量操作的核心技巧](https://mp.weixin.qq.com/s/a7OQAs5fJXX8u1941kOcJw)
 6. [PyTorch数据处理全攻略：从Dataset到DataLoader的完整流程](https://mp.weixin.qq.com/s/8JN6adPqb0XZVc1cKlaSGA)
 7. [PyTorch神经网络构建：torch.nn模块详解](https://mp.weixin.qq.com/s/VOG_GigBOZe3YyRp5Ab8Cg)
-8. [PyTorch训练流程标准化：优化器、损失函数与训练循环的最佳实践]()
-9. [模型验证与评估：如何科学地衡量你的PyTorch模型性能]()
+8. [PyTorch训练流程标准化：优化器、损失函数与训练循环的最佳实践](https://mp.weixin.qq.com/s/ZE2LsupLJYgkVN5QFPLaNg)
+9. [模型验证与评估：如何科学地衡量你的PyTorch模型性能](https://mp.weixin.qq.com/s/S40WEDhKPW4XjITgeJ8HLg)
 
 
 #### 进阶系列
@@ -51,6 +53,14 @@
 ### keras
 待补充
 
+
+# 项目实战
+## 图像分类
+### 基于深度学习的水果识别系统设计
+1. [基于深度学习的水果识别系统设计方案]()
+## 目标检测
+
+## 情感分析
 
 如果这个项目对你有所帮助，请点个 ⭐ Star 支持一下，这对我将是莫大的鼓励！
 
