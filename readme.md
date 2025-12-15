@@ -7,15 +7,51 @@
 
 
 ## 目录
-- [深度学习框架学习](#深度学习框架学习)
-  - [PyTorch](#PyTorch)
-  - [TensorFlow](#TensorFlow)
-  - [keras](#keras)
+- [数学基础](数学基础)
+  - [线性代数](线性代数)
+  - [微积分](微积分)
+  - [概率与统计](概率与统计)
+
+- [编程与工具](#编程与工具)
+  - [Python](https://www.python.org/)
+  - [Vscode](https://code.visualstudio.com/)
+  - [Anconda](https://anaconda.org/)
+
+- [机器学习](#机器学习)
+  - [监督学习](监督学习)
+  - [无监督学习](无监督学习)
+  - [项目实战](项目实战)
+
+- [深度学习](#深度学习)
+
+  - [神经网络](#神经网络)
+    - [感知机与多层感知机](#感知机与多层感知机)
+    - [激活函数](激活函数)
+    - [损失函数](损失函数)
+    - [反向传播算法](反向传播算法)
+    - [优化器](优化器)
+    
+  - [深度学习框架学习](#深度学习框架学习)
+    - [PyTorch](#PyTorch)
+    - [TensorFlow](#TensorFlow)
+    - [keras](#keras)
 
 - [项目实战](#项目实战)
 
-## 深度学习框架学习
+# 深度学习
+## 神经网络
+### 感知机与多层感知机
+1. [从“线性”到“非线性”：秒懂感知机与多层感知机](https://mp.weixin.qq.com/s/x6qv2w9Kjv8OqAGRh-wdhw)
+### 激活函数
+1. [激活函数——神经网络的“灵魂开关”](https://mp.weixin.qq.com/s/x6qv2w9Kjv8OqAGRh-wdhw)
+### 损失函数
+1. [损失函数：AI的“航海图”与“罗盘”，为何选错就全盘皆输？](https://mp.weixin.qq.com/s/JC8XTzxtEY6xQxMxhk9_0A)
+### 反向传播算法
+1. [反向传播算法——机器学习中的“梯度”与“学习”](https://mp.weixin.qq.com/s/x6qv2w9Kjv8OqAGRh-wdhw)
+### 优化器
+1. [优化器——机器学习中的“学习”](https://mp.weixin.qq.com/s/x6qv2w9Kjv8OqAGRh-wdhw)
 
+## 深度学习框架学习
 ### PyTorch
 #### 入门系列
 1. [AI时代，为什么PyTorch成了深度学习"第一选择"？](https://mp.weixin.qq.com/s/cZSN9QRU-ndMP0_kaUTvtw)
@@ -30,22 +66,10 @@
 
 
 #### 进阶系列
-1. [深入理解PyTorch中的自动求导机制(Autograd)]()
-2. [PyTorch模型定义与参数初始化最佳实践]()
-3. [掌握PyTorch数据加载器(DataLoader)高级用法]()
-4. [PyTorch性能优化技巧：GPU加速与内存管理]()
-5. [使用PyTorch构建复杂的神经网络架构]()
-6. [PyTorch中的迁移学习：从预训练模型开始]()
-7. [自定义损失函数和优化器在PyTorch中的实现]()
+待补充
 
 #### 实战系列
-1. [计算机视觉实战：用PyTorch构建图像分类器]()
-2. [自然语言处理入门：基于PyTorch的情感分析模型]()
-3. [目标检测项目：使用PyTorch实现YOLO算法]()
-4. [语音识别应用：PyTorch与音频数据处理]()
-5. [生成对抗网络(GANs)实战：用PyTorch生成逼真图像]()
-6. [强化学习初探：基于PyTorch实现简单的游戏AI]()
-7. [部署上线：将PyTorch模型转换为生产环境可用格式]()
+待补充
 
 ### TensorFlow
 待补充
