@@ -18,23 +18,19 @@
   - [Anconda](https://anaconda.org/)
 
 - [机器学习](#机器学习)
-  - [监督学习](监督学习)
-  - [无监督学习](无监督学习)
-  - [项目实战](项目实战)
-
-- [深度学习](#深度学习)
 
   - [神经网络](#神经网络)
-    - [感知机与多层感知机](#感知机与多层感知机)
-    - [激活函数](激活函数)
-    - [损失函数](损失函数)
-    - [反向传播算法](反向传播算法)
-    - [优化器](优化器)
-    
-  - [深度学习框架学习](#深度学习框架学习)
-    - [PyTorch](#PyTorch)
-    - [TensorFlow](#TensorFlow)
-    - [keras](#keras)
+      - [感知机与多层感知机](#感知机与多层感知机)
+      - [激活函数](#激活函数)
+      - [损失函数](#损失函数)
+      - [反向传播算法](#反向传播算法)
+      - [优化器](#优化器)
+      - [案例](#案例)
+  - [深度学习](#深度学习)    
+    - [深度学习框架学习](#深度学习框架学习)
+      - [PyTorch](#PyTorch)
+      - [TensorFlow](#TensorFlow)
+      - [keras](#keras)
 
 - [项目实战](#项目实战)
 
@@ -47,10 +43,11 @@
 ### 损失函数
 1. [损失函数：AI的“航海图”与“罗盘”，为何选错就全盘皆输？](https://mp.weixin.qq.com/s/JC8XTzxtEY6xQxMxhk9_0A)
 ### 反向传播算法
-1. [反向传播算法——机器学习中的“梯度”与“学习”](https://mp.weixin.qq.com/s/x6qv2w9Kjv8OqAGRh-wdhw)
+1. [想入门深度学习？绕不开的“反向传播”原理与精要](https://mp.weixin.qq.com/s/VqGSIzUTVoKKiiuIMCmZLw)
 ### 优化器
-1. [优化器——机器学习中的“学习”](https://mp.weixin.qq.com/s/x6qv2w9Kjv8OqAGRh-wdhw)
-
+1. [超越调参：深入理解优化器如何影响模型泛化能力](https://mp.weixin.qq.com/s/m9aY-VqcnuOBX7Af57yTeQ)
+### 案例
+1. [想学AI？从这个经典项目开始：手写数字识别全解析](https://mp.weixin.qq.com/s/jkdke3_pSwOe629Tk2RSkA)
 ## 深度学习框架学习
 ### PyTorch
 #### 入门系列
