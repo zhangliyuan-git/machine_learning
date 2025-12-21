@@ -1,56 +1,21 @@
 # 📚 项目初衷
-这不仅仅是一份资源列表，更是我的学习思考与实践沉淀。我希望：
-- ✅ 为自己：构建体系化的知识框架，温故知新
-- ✅ 为同路人：提供一份经过亲测的、可执行的参考路线，减少你的摸索时间
-- ✅ 为交流：抛砖引玉，期待能与更多学习者交流心得，共同进步
-
-
+记录机器学习的知识，分享
 
 ## 目录
-- [数学基础](数学基础)
-  - [线性代数](线性代数)
-  - [微积分](微积分)
-  - [概率与统计](概率与统计)
 
-- [编程与工具](#编程与工具)
-  - [Python](https://www.python.org/)
-  - [Vscode](https://code.visualstudio.com/)
-  - [Anconda](https://anaconda.org/)
+### 基础知识
+1. [从"线性"到"非线性"：秒懂感知机与多层感知机](https://mp.weixin.qq.com/s/x6qv2w9Kjv8OqAGRh-wdhw)
 
-- [机器学习](#机器学习)
+1. [激活函数——神经网络的"灵魂开关"](https://mp.weixin.qq.com/s/x6qv2w9Kjv8OqAGRh-wdhw)
 
-  - [神经网络](#神经网络)
-      - [感知机与多层感知机](#感知机与多层感知机)
-      - [激活函数](#激活函数)
-      - [损失函数](#损失函数)
-      - [反向传播算法](#反向传播算法)
-      - [优化器](#优化器)
-      - [案例](#案例)
-  - [深度学习](#深度学习)    
-    - [深度学习框架学习](#深度学习框架学习)
-      - [PyTorch](#PyTorch)
-      - [TensorFlow](#TensorFlow)
-      - [keras](#keras)
+1. [损失函数：AI的"航海图"与"罗盘"，为何选错就全盘皆输？](https://mp.weixin.qq.com/s/JC8XTzxtEY6xQxMxhk9_0A)
 
-- [项目实战](#项目实战)
+1. [想入门深度学习？绕不开的"反向传播"原理与精要](https://mp.weixin.qq.com/s/VqGSIzUTVoKKiiuIMCmZLw)
 
-# 深度学习
-## 神经网络
-### 感知机与多层感知机
-1. [从“线性”到“非线性”：秒懂感知机与多层感知机](https://mp.weixin.qq.com/s/x6qv2w9Kjv8OqAGRh-wdhw)
-### 激活函数
-1. [激活函数——神经网络的“灵魂开关”](https://mp.weixin.qq.com/s/x6qv2w9Kjv8OqAGRh-wdhw)
-### 损失函数
-1. [损失函数：AI的“航海图”与“罗盘”，为何选错就全盘皆输？](https://mp.weixin.qq.com/s/JC8XTzxtEY6xQxMxhk9_0A)
-### 反向传播算法
-1. [想入门深度学习？绕不开的“反向传播”原理与精要](https://mp.weixin.qq.com/s/VqGSIzUTVoKKiiuIMCmZLw)
-### 优化器
 1. [超越调参：深入理解优化器如何影响模型泛化能力](https://mp.weixin.qq.com/s/m9aY-VqcnuOBX7Af57yTeQ)
-### 案例
 1. [想学AI？从这个经典项目开始：手写数字识别全解析](https://mp.weixin.qq.com/s/jkdke3_pSwOe629Tk2RSkA)
-## 深度学习框架学习
-### PyTorch
-#### 入门系列
+
+### Pytorch
 1. [AI时代，为什么PyTorch成了深度学习"第一选择"？](https://mp.weixin.qq.com/s/cZSN9QRU-ndMP0_kaUTvtw)
 2. [【保姆级教程】10分钟搞定PyTorch开发环境：在VS Code中配置PyTorch开发环境](https://mp.weixin.qq.com/s/DhxpGvSavjQt4m_RHAhrWQ)
 3. [PyTorch核心概念解析：张量、计算图与动态网络](https://mp.weixin.qq.com/s/31UYha6c3wQpjWllK8s5ZA)
@@ -61,31 +26,21 @@
 8. [PyTorch训练流程标准化：优化器、损失函数与训练循环的最佳实践](https://mp.weixin.qq.com/s/ZE2LsupLJYgkVN5QFPLaNg)
 9. [模型验证与评估：如何科学地衡量你的PyTorch模型性能](https://mp.weixin.qq.com/s/S40WEDhKPW4XjITgeJ8HLg)
 
+## 项目实战
 
-#### 进阶系列
-待补充
+### 图像分类
 
-#### 实战系列
-待补充
-
-### TensorFlow
-待补充
-
-### keras
-待补充
+#### 从零构建智能水果识别系统
+1. [从零构建智能水果识别系统：PyTorch实战系列开篇](https://mp.weixin.qq.com/s/VquRnTu--OQGjErjZxCXFg)
+1. [从零构建AI水果识别系统：告别混乱配置，这一篇就够了](https://mp.weixin.qq.com/s/OZS95nySZgjsxpUpHLXA3w)
+1. [从零构建智能水果识别系统：数据模块深度解析](https://mp.weixin.qq.com/s/Jg16KjNCYA0rhc_P7TPxQw)
 
 
-# 项目实战
-## 图像分类
-### 基于深度学习的水果识别系统设计
-1. [基于深度学习的水果识别系统设计方案]()
-## 目标检测
-
-## 情感分析
 
 如果这个项目对你有所帮助，请点个 ⭐ Star 支持一下，这对我将是莫大的鼓励！
 
 也欢迎关注我的更新，让我们一起在机器学习的道路上成长。共勉！
+
 <p align="center">
   <img src="扫码_搜索联合传播样式-标准色版.png" alt="公众号二维码"/>
 </p>
