@@ -5,15 +5,13 @@
 
 ### 基础知识
 1. [从"线性"到"非线性"：秒懂感知机与多层感知机](https://mp.weixin.qq.com/s/x6qv2w9Kjv8OqAGRh-wdhw)
-
 1. [激活函数——神经网络的"灵魂开关"](https://mp.weixin.qq.com/s/x6qv2w9Kjv8OqAGRh-wdhw)
-
 1. [损失函数：AI的"航海图"与"罗盘"，为何选错就全盘皆输？](https://mp.weixin.qq.com/s/JC8XTzxtEY6xQxMxhk9_0A)
-
 1. [想入门深度学习？绕不开的"反向传播"原理与精要](https://mp.weixin.qq.com/s/VqGSIzUTVoKKiiuIMCmZLw)
-
 1. [超越调参：深入理解优化器如何影响模型泛化能力](https://mp.weixin.qq.com/s/m9aY-VqcnuOBX7Af57yTeQ)
 1. [想学AI？从这个经典项目开始：手写数字识别全解析](https://mp.weixin.qq.com/s/jkdke3_pSwOe629Tk2RSkA)
+1. [模型训练的时候为什么要区分训练集、验证集、测试集？](https://mp.weixin.qq.com/s/syK_h3ebok0UZNgmszQBtg)
+1. [避开学习弯路：关于机器学习的19个“为什么”](https://mp.weixin.qq.com/s/uuoMWudTkyF7N-X9_4e_TA)
 
 ### Pytorch
 1. [AI时代，为什么PyTorch成了深度学习"第一选择"？](https://mp.weixin.qq.com/s/cZSN9QRU-ndMP0_kaUTvtw)
@@ -31,12 +29,15 @@
 ### 图像分类
 
 #### 从零构建智能水果识别系统
-1. [从零构建智能水果识别系统：PyTorch实战系列开篇](https://mp.weixin.qq.com/s/VquRnTu--OQGjErjZxCXFg)
-1. [从零构建AI水果识别系统：告别混乱配置，这一篇就够了](https://mp.weixin.qq.com/s/OZS95nySZgjsxpUpHLXA3w)
-1. [从零构建智能水果识别系统：数据模块深度解析](https://mp.weixin.qq.com/s/Jg16KjNCYA0rhc_P7TPxQw)
 
 
 
+## 闲暇时光
+### 读书感悟
+1.[《面纱》真相：多少婚姻，是一场精致的自我欺骗](https://mp.weixin.qq.com/s/hUUdrDPYqMTdZQF4VrnRJg)
+
+
+## 联系作者
 如果这个项目对你有所帮助，请点个 ⭐ Star 支持一下，这对我将是莫大的鼓励！
 
 也欢迎关注我的更新，让我们一起在机器学习的道路上成长。共勉！
